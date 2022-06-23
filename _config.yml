@@ -8,9 +8,9 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
+title: goyuna's blog
 tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
+description: The demonstration page for the goyuna's blog, a jekyll theme for academic portfolios based on the Grape Theme.
 author: Go Yuna
 twitter:
   username: chrjabs

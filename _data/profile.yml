@@ -1,11 +1,11 @@
-image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
+image: assets/img/profile.JPG
+username: Go Yuna
+description: It's for subscription of my academic portfolio.
+webpage: https://goyuna.github.io
 experience:
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2022-01-01
+    end: 2022-02-28
+    experience : Testworks, Web & Mobile App TestAutomation Intern.
 interests:
   - Interest 1
   - Interest 2
@@ -19,11 +19,11 @@ social:
   publons: 
   research_gate: 
   linkedin:  # Full URL 
-  github: chrjabs
+  github: goyuna
   gitlab: 
-  bitbucket: chrjabs
+  bitbucket: goyuna
   google_plus:
-  twitter: chrjabs
+  twitter: goyuna
   youtube:
   facebook:
   instagram:
