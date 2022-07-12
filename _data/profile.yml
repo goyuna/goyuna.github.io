@@ -1,6 +1,6 @@
 image: assets/img/profile.JPG
-username: Go Yuna
-description: Web 
+username: Go Yuna 고유나
+description: 웹 프론트엔드와 백엔드에 관심을 두고 공부하고 있습니다.
 webpage: https://goyuna.github.io
 experience:
   - start: 2022-01-01
@@ -20,8 +20,8 @@ social:
   email:  ggyn210@gmail.com
   orcid: 
   scholar: 
-  publons: 
-  research_gate: 
+  publons: https://www.notion.so/269ed7178fcd472f86fcdfe3737e7932
+  research_gate: goyuna.tistory.com
   linkedin:  # Full URL 
   github: github.com/goyuna
   gitlab: 
