@@ -13,14 +13,15 @@ tagline: A jekyll theme for academic portfolios
 description: The demonstration page for the goyuna's blog, a jekyll theme for academic portfolios based on the Grape Theme.
 author: Go Yuna
 twitter:
-  username: chrjabs
+  username: go yuna
   card: A jekyll theme for academic portfolios
 logo: /assets/img/profile.JPG
 social:
   name: Go Yuna
   links:
-    - https://twitter.com/chrjabs
+    - https://goyuna.tistory.com
     - https://github.com/goyuna
+    - https://www.notion.so/269ed7178fcd472f86fcdfe3737e7932
 locale: en_GB
 
 # Page Settings

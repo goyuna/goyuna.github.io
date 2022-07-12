@@ -8,7 +8,7 @@ experience:
     experience : Testworks, Web & Mobile App Test Automation Intern.
 interests:
   - Web Front-end
-  - Interest 2
+  - Web Back-end
 skills: 
   - skill: HTML5 & CSS
     value: 85  # Percent value
@@ -17,7 +17,7 @@ skills:
   - skill : Node.js
     value : 50
 social:
-  email:  # Full email address, e.g. "sample@google.com"
+  email:  ggyn210@gmail.com
   orcid: 
   scholar: 
   publons: 
@@ -25,8 +25,9 @@ social:
   linkedin:  # Full URL 
   github: github.com/goyuna
   gitlab: 
-  bitbucket: goyuna
   google_plus:
   youtube:
   facebook:
   instagram:
+  blog : goyuna.tistory.com
+  notion : https://www.notion.so/269ed7178fcd472f86fcdfe3737e7932
