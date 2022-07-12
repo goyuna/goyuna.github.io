@@ -1,17 +1,21 @@
 image: assets/img/profile.JPG
 username: Go Yuna
-description: It's for subscription of my academic portfolio.
+description: Web 
 webpage: https://goyuna.github.io
 experience:
   - start: 2022-01-01
     end: 2022-02-28
-    experience : Testworks, Web & Mobile App TestAutomation Intern.
+    experience : Testworks, Web & Mobile App Test Automation Intern.
 interests:
-  - Interest 1
+  - Web Front-end
   - Interest 2
 skills: 
   - skill: HTML5 & CSS
     value: 85  # Percent value
+  - skill : JavaScript
+    value : 70
+  - skill : Node.js
+    value : 50
 social:
   email:  # Full email address, e.g. "sample@google.com"
   orcid: 
@@ -19,11 +23,10 @@ social:
   publons: 
   research_gate: 
   linkedin:  # Full URL 
-  github: goyuna
+  github: github.com/goyuna
   gitlab: 
   bitbucket: goyuna
   google_plus:
-  twitter: goyuna
   youtube:
   facebook:
   instagram:
